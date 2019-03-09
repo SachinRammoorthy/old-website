@@ -52,6 +52,10 @@
   content: "\e900";
 }
 
+.icon-atom2:before {
+  content: "\e907";
+}
+
 .icon-plus:before {
   content: "\f067";
 }
