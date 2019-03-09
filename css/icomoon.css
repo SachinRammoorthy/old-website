@@ -36,6 +36,10 @@
   content: "\ea80";
 }
 
+.icon-svg:before {
+  content: "\eae9";
+}
+
 .icon-earth:before {
   content: "\e9ca";
 }
