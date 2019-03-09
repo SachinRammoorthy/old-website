@@ -46,7 +46,6 @@
 
 .icon-atom:before {
   content: "\e900";
-  color: #66595c;
 }
 
 .icon-plus:before {
@@ -3475,9 +3474,7 @@
 .icon-gif:before {
   content: "\e908";
 }
-.icon-goat:before {
-  content: "\e900";
-}
+
 .icon-golf_course:before {
   content: "\eb45";
 }
