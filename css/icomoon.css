@@ -27,6 +27,28 @@
 .icon-asterisk:before {
   content: "\f069";
 }
+
+.icon-graduation-cap:before {
+  content: "\e902";
+}
+
+.icon-embed2:before {
+  content: "\ea80";
+}
+
+.icon-earth:before {
+  content: "\e9ca";
+}
+
+.icon-bank:before {
+  content: "\e901";
+}
+
+.icon-atom:before {
+  content: "\e900";
+  color: #66595c;
+}
+
 .icon-plus:before {
   content: "\f067";
 }
