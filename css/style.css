@@ -183,12 +183,12 @@ body {
 }
 
 .left_part {
-  width:40%;
+  width:45%;
   display:block;
   float: left;
 }
 .right_part {
-  width:60%;
+  width:55%;
    display:block;
    float: right;
 }
